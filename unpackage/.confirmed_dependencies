@@ -1,0 +1,25 @@
+{
+	"index.html": {
+		"href": "index.html",
+		"resources": [
+			"MP3/check.mp3",
+			"scan.gif",
+			"MP3/morepople.mp3",
+			"MP3/shibie.mp3",
+			"MP3/nopople.mp3",
+			"MP3/isok.mp3",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/main.css",
+			"js/tracking.js",
+			"js/data/face-min.js",
+			"js/data/eye-min.js",
+			"js/data/mouth-min.js",
+			"js/main.js"
+		],
+		"refer": [
+			"index.html"
+		],
+		"priority": 0
+	}
+}
